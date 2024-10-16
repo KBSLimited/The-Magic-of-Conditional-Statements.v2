@@ -1,3 +1,4 @@
+#Task 1: Code Correction
 number = input("Enter a number: ")
 
 # Convert the input to an integer or float for comparison
@@ -8,4 +9,4 @@ if number > 0:
 elif number == 0:  # Use '==' for equality comparison
     print("The number is zero.")
 else:  # No condition needed here; it's implied that number < 0
-    print("The number is negative.")
+    print("The number is negative.") 
